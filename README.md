@@ -1,4 +1,13 @@
-Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">, I'm G Pavan Kalyan, Full Stack Web Developer & IoT Engineer
+Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">, <h4>I'm G Pavan Kalyan</h4>Full Stack Web Developer & IoT Engineer
+<img width="25%" align="left" alt="Github" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img width="30%" align="left" alt="Github" src="https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif" />
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Let's Connect on social media
 
@@ -11,8 +20,6 @@ Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wav
 <a href="https://github.com/pavankalyangojju" target="_blank">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/github.svg' width='24px' />
 </a>
-
-
 
 ### About Me
 Recently, I'm  Working as <b>Software Engineer </b> at [fwdefence.com](https://fwdefence.com/). <br/>
